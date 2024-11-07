@@ -54,4 +54,5 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
 
     api("com.airbnb.android:lottie:6.4.1")
+    implementation ("com.github.gkonovalov.android-vad:silero:2.0.6")
 }
